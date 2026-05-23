@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Investigative Discovery",
+  "description": "An investigative tool to find connections and commonalities between individuals based on publicly available data, focusing on addresses, employment, and social interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
